@@ -1,0 +1,19 @@
+:root {
+  --mfe1-color: #5b03ff;
+}
+.mfe1-btn {
+  background: var(--mfe1-color);
+  color: white;
+  padding: 0.5rem;
+  border: none;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+
+.mfe1-button {
+  background: #fc00e7;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+}

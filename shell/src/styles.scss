@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+:root {
+  --primary-color: #1fd219;
+  --shared-padding: 1rem;
+}
+
+.shared-style {
+  color: var(--primary-color);
+  font-weight: bold;
+  padding: var(--shared-padding);
+}
